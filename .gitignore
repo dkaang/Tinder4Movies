@@ -1,0 +1,19 @@
+# Ignore Python virtual environment folder
+backend/venv/
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore node_modules (if any)
+frontend/node_modules/
+
+# Ignore build/dist folders (if you have any)
+frontend/dist/
+backend/__pycache__/
+
+# Ignore environment files (if any)
+.env
+
+# Tailwindcss Executable (125 MB - too large to have in Repository)
+frontend/tailwindcss.exe
