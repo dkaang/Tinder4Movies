@@ -22,8 +22,6 @@ Tinder4Movies helps you and your friends find the perfect movie to watch togethe
 | API      | TMDB API                              |
 | IDE      | VSCode                               |
 
----
-<br>
 <br>
 
 ## Most important Files:
@@ -35,7 +33,6 @@ Tinder4Movies helps you and your friends find the perfect movie to watch togethe
 - Defines project dependencies (like React, Tailwind), scripts (such as `npm run dev`), and metadata.  
 - Used to install packages and run development/build scripts.
 
-<br>
 
 #### b) **`vite.config.js` or `vite.config.ts`**
 
@@ -43,7 +40,6 @@ Tinder4Movies helps you and your friends find the perfect movie to watch togethe
 - Sets up how the app is built and served during development.  
 - Can customize build options, proxy backend requests, and add plugins.
 
-<br>
 
 #### c) **`src/` folder**
 
@@ -66,7 +62,6 @@ Inside `src/`:
 - **`index.css`**  
     - Global CSS styles and Tailwind directives (like `@tailwind base;`).
 
-<br>
 
 #### d) **`postcss.config.js` & `tailwind.config.js`**
 
@@ -120,7 +115,6 @@ Inside `src/`:
 - Later, set up backend API endpoints and connect them with frontend fetch calls.
 
 ---
-<br>
 
 ### **Summary Cheat Sheet**
 
